@@ -7,7 +7,7 @@ Sistema para la gestion y seguimiento de reportes tecnicos.
 
 ## Equipo
 * **David Carrerp Real**  [@DACAREx_github]
-* **Adrian Campos Espejo** [@]
+* **Adrian Campos Espejo** [@acamesp618]
 
 ## Estrategia de Ramas
 Utilizamos **GitFlow** simplificado:
